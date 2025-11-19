@@ -1,7 +1,7 @@
 # Power-BI
 # 👋 Hi, I'm Akash Verma
 
-**Power BI Analyst | Data Enthusiast | Dashboard Developer**
+**Power BI Analyst | Data Modeling | Dashboard Developer**
 
 Welcome to my GitHub portfolio! I specialize in transforming raw data into powerful dashboards, insights, and automated reports that drive business decisions.
 
@@ -37,8 +37,8 @@ Power BI Analyst with hands-on experience in building business dashboards, creat
 ---
 
 ## 📫 Connect With Me
-- **LinkedIn:** your-link-here
-- **Email:** your-email-here
+- **LinkedIn:** https://www.linkedin.com/feed/
+- **Email:** smartyguycool555@gmail.com
 
 ---
 
